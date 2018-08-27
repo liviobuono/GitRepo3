@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp_Git3", "TestConsoleApp_Git3\TestConsoleApp_Git3.csproj", "{F343930D-4214-486A-A9E6-8D481342F553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClassLibrary_Git3", "TestClassLibrary_Git3\TestClassLibrary_Git3.csproj", "{04D275AC-03E9-417C-ACCC-CAD253E3AE66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F343930D-4214-486A-A9E6-8D481342F553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F343930D-4214-486A-A9E6-8D481342F553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F343930D-4214-486A-A9E6-8D481342F553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F343930D-4214-486A-A9E6-8D481342F553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D275AC-03E9-417C-ACCC-CAD253E3AE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D275AC-03E9-417C-ACCC-CAD253E3AE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D275AC-03E9-417C-ACCC-CAD253E3AE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D275AC-03E9-417C-ACCC-CAD253E3AE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E51BC33-A8DF-455E-9F22-DF78CE2534A0}
+	EndGlobalSection
+EndGlobal
